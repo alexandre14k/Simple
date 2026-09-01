@@ -4,6 +4,8 @@ Socle open source pour développer des applications GUI en C++20 <br>avec GNU g+
 L'objectif est de fournir une base simple et légère pour démarrer<br>
 rapidement un projet graphique sans imposer une architecture lourde.
 
+![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/Simple&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 ## Fonctionnalités
 
 - Interface graphique avec SDL3 et Dear ImGui
