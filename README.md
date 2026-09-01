@@ -26,6 +26,7 @@ Le projet peut servir de base pour :
 - prototypes GUI
 - petits jeux
 - projets expérimentaux C++ open source
+- intelligence artificielle
 
 Il peut évoluer avec d'autres plateformes, systèmes de packaging et outils
 de développement.
