@@ -63,6 +63,57 @@ accessible et réutilisable.
 
 Les composants tiers conservent leurs propres licences et notices.
 
+## Utilisation
+
+Exécuter run.sh sour Linux Mint Xfce<br>
+puis construction des dépendances externes:<br>
+<div style="text-align: center;">
+  <img src="doc/run.py_ext_compilation.png" width="600" />
+</div>
+
+puis construction de l'application client en mode développement:<br>
+<div style="text-align: center;">
+  <img src="doc/run.py_build_debug.png" width="600" />
+</div>
+
+puis construction de l'application client en mode production:<br>
+<div style="text-align: center;">
+  <img src="doc/run.py_build_release.png" width="600" />
+</div>
+
+puis construction d'un pack de livraison pour Debian/Ubuntu:<br>
+<div style="text-align: center;">
+  <img src="doc/run.py_pack_debian.png" width="600" />
+</div>
+
+puis la sauvegarde des travaux avec git:<br>
+<div style="text-align: center;">
+  <img src="doc/run.py_git_commit.png" width="600" />
+</div>
+
+puis l'inspection des travaux collaboratifs avec git:<br>
+<div style="text-align: center;">
+  <img src="doc/run.py_git_hash.png" width="600" />
+</div>
+
+et l'inspection détaillée:<br>
+<div style="text-align: center;">
+  <img src="doc/run.py_git_hash_inspect.png" width="600" />
+</div>
+
+et l'historique des travaux:<br>
+<div style="text-align: center;">
+  <img src="doc/run.py_git_list.png" width="600" />
+</div>
+
+## Tests sur Windows
+
+- à déterminer
+
+## Tests sur MacOs 
+
+- à déterminer
+
 ## License
 
 This project is licensed under the BSD 3-Clause License - see the LICENSE
